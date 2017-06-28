@@ -1,0 +1,17 @@
+{
+  "name": "connect",
+  "description": "connect means men can do x!",
+  "keywords": ["psr", "psr-3", "log"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "PHP-FIG",
+      "homepage": "http://www.php-fig.org/"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "QQ\\": "src/QQ"
+    }
+  }
+}
